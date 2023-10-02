@@ -1,0 +1,1 @@
+this is our mini project (in 2nd year)named chatSoC(an AI powered chatbot). we have integrated multiple features such as loginid(not encrpyted), signup ,youtube downloads, qrgenerator, AI image generator ,etc using multiple API keys at a very basic level. look into code for improvement. also make sure to change necessary file paths, Login datas and api keys. Thankyou!!!
